@@ -1,1 +1,1 @@
-# datacube_course_2022
+# datacube_eagles
